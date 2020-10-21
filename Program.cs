@@ -9,6 +9,8 @@ namespace visualstudiocsharpgitdemo
             Console.WriteLine("Hello World!");
 
             Console.WriteLine("Here is a change");
+
+            Console.WriteLine("Hello ia second change");
         }
     }
 }
