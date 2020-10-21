@@ -7,6 +7,8 @@ namespace visualstudiocsharpgitdemo
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+
+            Console.WriteLine("Here is a change");
         }
     }
 }
